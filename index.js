@@ -1,7 +1,7 @@
 const bedrock = require('bedrock-protocol');
 
 const bot = bedrock.createClient({
-  host: play.applemc.fun,
+  host: 'play.applemc.fun'
   port: 19132,
   username: 'Gamerboy83894'
 });
